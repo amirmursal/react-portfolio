@@ -8,7 +8,7 @@ const Menu =({open, setOpen})=>{
                 <li onClick={setOpen}>
                     <a href="#intro">Home</a>
                 </li>
-                <li onClick={setOpen}>
+                {/* <li onClick={setOpen}>
                     <a href="#portfolio">Portfolio</a>
                 </li>
                 <li onClick={setOpen}>
@@ -16,7 +16,7 @@ const Menu =({open, setOpen})=>{
                 </li>
                 <li onClick={setOpen}>
                     <a href="#testimonials">Testimonials</a>
-                </li>
+                </li> */}
                 <li onClick={setOpen}>
                     <a href="#contact">Contact</a>
                 </li>

@@ -11,11 +11,11 @@ const TopBar = ({open, setOpen}) => {
                     </a>
                     <div className="itemContainer">
                         <GitHub className="icon" />
-                        <a href="https://github.com/amirmursal">Github</a>
+                        <a href="https://github.com/amirmursal" target="_blank" rel="noreferrer">Github</a>
                     </div>
                     <div className="itemContainer">
                         <LinkedIn className="icon" />
-                        <a href="https://www.linkedin.com/in/amir-mursal-320b1568/">Linkedin</a>
+                        <a href="https://www.linkedin.com/in/amir-mursal-320b1568/" target="_blank" rel="noreferrer">Linkedin</a>
                     </div>
                 </div>
                 <div className="right">

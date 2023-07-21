@@ -21,9 +21,9 @@ const App = () => {
       <Menu open={open} setOpen={toggleMenu} />
       <div className="sections">
         <Intro />
-        <PortFolio />
+        {/* <PortFolio />
         <Works />
-        <Testimonials />
+        <Testimonials /> */}
         <Contact />
       </div>
     </div>
